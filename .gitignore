@@ -1,0 +1,29 @@
+# C/C++ build artifacts
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.elf
+*.gch
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.gcno
+*.gcda
+*.gcov
+*.dSYM/
+
+# Common local executable names
+a.out
+main
+
+# vscode settings
+.vscode/
