@@ -1,3 +1,7 @@
+/*
+ * 顺序表示例。
+ * 该文件实现顺序表的初始化、插入、删除、查找、区间删除和逆置操作。
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
@@ -148,4 +152,3 @@ void PrintAll(const SeqList *L){
     }
     printf("\n");
 }
-

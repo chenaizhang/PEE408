@@ -1,3 +1,7 @@
+/*
+ * 双亲表示树与并查集示例。
+ * 该文件使用双亲数组保存集合关系，并实现查找与合并操作。
+ */
 #include <iostream>
 
 #define MAX_TREE_SIZE 100

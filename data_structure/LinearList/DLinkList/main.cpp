@@ -1,3 +1,7 @@
+/*
+ * 双链表示例。
+ * 该文件实现双链表的初始化、前插和后插等基础操作。
+ */
 #include<stdio.h>
 #include<stdlib.h>
 

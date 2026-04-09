@@ -1,3 +1,7 @@
+/*
+ * 中序线索二叉树示例。
+ * 该文件实现线索化过程，以及中序和逆中序遍历所需的辅助函数。
+ */
 #include <iostream>
 
 using ElemType = int;

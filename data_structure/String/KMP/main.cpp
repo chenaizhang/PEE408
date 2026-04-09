@@ -1,3 +1,7 @@
+/*
+ * KMP 字符串匹配示例。
+ * 该文件构造 nextval 数组，并返回模式串在主串中的首次匹配位置。
+ */
 #include <string.h>
 #include <iostream>
 

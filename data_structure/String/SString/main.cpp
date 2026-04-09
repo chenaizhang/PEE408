@@ -1,3 +1,7 @@
+/*
+ * 串结构与模式匹配示例。
+ * 该文件实现定长串的子串、比较、朴素匹配以及 KMP 相关辅助函数。
+ */
 #include <iostream>
 #define MAXLEN 255
 typedef struct
@@ -102,4 +106,3 @@ int *CalNextVal(SString T){
     free(next);
     return nextVal;
 }
-

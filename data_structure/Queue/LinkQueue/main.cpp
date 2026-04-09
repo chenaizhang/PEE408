@@ -1,3 +1,7 @@
+/*
+ * 链式队列示例。
+ * 该文件实现链式队列的初始化、判空、入队和出队操作。
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>

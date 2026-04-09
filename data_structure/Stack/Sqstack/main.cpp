@@ -1,3 +1,7 @@
+/*
+ * 顺序栈与表达式转换示例。
+ * 该文件基于顺序栈实现中缀表达式转后缀表达式的核心逻辑。
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>

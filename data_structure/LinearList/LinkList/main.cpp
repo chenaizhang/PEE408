@@ -1,3 +1,7 @@
+/*
+ * 单链表示例。
+ * 该文件实现带头结点单链表的初始化、插入、删除、查找和求长操作。
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>

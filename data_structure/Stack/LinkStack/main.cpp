@@ -1,3 +1,7 @@
+/*
+ * 链栈示例。
+ * 该文件实现链栈的初始化、判空、入栈、出栈和取栈顶操作。
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>

@@ -1,3 +1,7 @@
+/*
+ * 循环顺序队列示例。
+ * 该文件实现顺序队列的初始化、判空、判满、入队、出队和取队头操作。
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdbool.h>
